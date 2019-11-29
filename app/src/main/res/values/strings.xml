@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JsonToJavaParsing</string>
+    <string name="datetime">datetime</string>
+</resources>
